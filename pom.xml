@@ -11,7 +11,7 @@
     <description>split words like this abcd->[abcd,bcd,cd,d]</description>
 
     <properties>
-        <elasticsearch.version>7.1.1</elasticsearch.version>
+        <elasticsearch.version>7.13.3</elasticsearch.version>
         <elasticsearch.plugin.name>analysis-rockstone</elasticsearch.plugin.name>
         <elasticsearch.plugin.classname>org.elasticsearch.plugin.analysis.rockstone.AnalysisRockstonePlugin</elasticsearch.plugin.classname>
         <lucene.version>9.0.0</lucene.version>
